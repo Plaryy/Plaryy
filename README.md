@@ -1,8 +1,8 @@
-### Haiii it's me Plary! :star2:
+### [:star2:] Haiii it's me Plary!
 I am uhh 16 year old student/hardcore memer/aspiring programmer that I half self-taught coding for the rest of my life cuz' it's fun lol smh
 I am avid learner with hopes that I can learn more languages in the future and go stupid and dumb with it (cuz I am dumb and I don't want to grow up)
 
-## Welcome to my Github Profile :milkyway:
+## Welcome to my Github Profile :milky_way:
 Where magic happens inside usually-privated repos :oof: but I usually code in languages such as **Javascript and Python** as well as other tools like **Git.**
 My tools include
 - VSCode
@@ -11,7 +11,7 @@ My tools include
 - Spotify
 - idk other energy that helps me
 
-## Goals
+## [:fallen_leaf:] Goals
 1. Achieve well in upcoming exams for college/degree
 2. Learn more languages
 3. Start a Youtube channel
@@ -19,7 +19,7 @@ My tools include
 5. Create a web-app
 6. Help others
 
-### Weird Facts about me :robot:
+### [:robot:] Weird Facts about me 
 1. I know more than 3 languages. This includes *Malay, Jawi, Arab (dropped it so don't expect me to know much), Indonesia, Japanese (currently learning), and bit of Spanish*
 2. I was diagnosed with mild autism when I was 11. idk what happened after that.
 3. I'm addicted to memes
