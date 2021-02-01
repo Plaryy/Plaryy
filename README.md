@@ -2,7 +2,7 @@
 I am uhh 16 year old student/hardcore memer/aspiring programmer that I half self-taught coding for the rest of my life cuz' it's fun lol smh
 I am avid learner with hopes that I can learn more languages in the future and go stupid and dumb with it (cuz I am dumb and I don't want to grow up)
 
-## Welcome to my Github Profile :milky_way:
+## [:milky_way:] Welcome to my Github Profile 
 Where magic happens inside usually-privated repos :oof: but I usually code in languages such as **Javascript and Python** as well as other tools like **Git.**
 My tools include
 - VSCode
@@ -21,10 +21,9 @@ My tools include
 
 ### [:robot:] Weird Facts about me 
 1. I know more than 3 languages. This includes *Malay, Jawi, Arab (dropped it so don't expect me to know much), Indonesia, Japanese (currently learning), and bit of Spanish*
-2. I was diagnosed with mild autism when I was 11. idk what happened after that.
-3. I'm addicted to memes
-4. Maths is easy and not that bad (smh)
-5. I'm abit lazy cuz' I procastinate on Discord and other socials (below).
+2. I'm addicted to memes
+3. Maths is easy and not that bad (smh)
+4. I'm abit lazy cuz' I procastinate on Discord and other socials (below).
 
 ## My Socials
 [![Twitter](https://img.shields.io/twitter/url?label=follow&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Ftheplary)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Ftwitter.com%2Ftheplary)
